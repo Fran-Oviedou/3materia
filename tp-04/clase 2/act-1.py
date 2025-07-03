@@ -1,0 +1,1 @@
+#Escribe un programa que identifique el color de un objeto y muestre un mensaje según el color.
